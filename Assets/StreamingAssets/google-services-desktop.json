@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310037772770",
+    "project_id": "fruttis-veggies",
+    "storage_bucket": "fruttis-veggies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310037772770:android:b915c50102f8b28d0821bb",
+        "android_client_info": {
+          "package_name": "com.DamianGhDev.FruitsVeggies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgoOQ3qQ5TwnBNabwLzAsW0ZIGZwptMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
